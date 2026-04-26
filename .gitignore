@@ -80,3 +80,6 @@ backend/Resilio.API/wwwroot/*
 !backend/Resilio.API/wwwroot/favicon.svg
 !backend/Resilio.API/wwwroot/icons.svg
 backend/Resilio.API/publish/*
+
+playwright-report/
+test-results/
